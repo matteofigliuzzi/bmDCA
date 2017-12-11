@@ -2,7 +2,7 @@
 ./bmDCA_compile_v2.1.sh
 
 1/ Preprocess data
-./bmDCA_preprocessing -rw EXAMPLE/PF00014_raw.fasta
+./bmDCA_preprocessing.sh -rw EXAMPLE/PF00014_raw.fasta
 
 At this point, files in the "Processed" and "Processed_EXAMPLE" folders should be the same.
 
